@@ -18,3 +18,9 @@ finrl 0.3.5
 ### Usage
 We provide the RElaver implementation on four major Chinese stock index optio: IC (CSI 500), IF (CSI 300), IH (SSE 50), and IM (CSI 1000). 
 To execute the training and evaluation, specify the ``<index optio_name>`` (``IC`` or ``IF``) first and execute st_run.sh:
+
+```shell
+st_run.sh --market <market_name>
+```
+
+
