@@ -2,6 +2,7 @@
 This repo provides the code for reproducing the stock trading experiments in the IJCAI'25 submission **Resolving Latency and Inventory Risk in Market Making with Reinforcement Learning**. 
 
 ![overview](overview.png)
+
 *Overview of the Ralaver framework.*
 
 ### Dependencies
