@@ -9,13 +9,16 @@ This repo provides the code for reproducing the stock trading experiments in the
 
 ### Dependencies
 ```
-Python 3.7 
-tensorflow 2.11.0
-gym 0.21.0
-gym-minigrid 1.0.2
-numpy 1.19.5
-yfinance 0.2.3
-finrl 0.3.5 
+- Python: 3.10.13
+- Stable-Baselines3: 2.3.2
+- PyTorch: 2.2.1+cpu
+- GPU Enabled: False
+- Numpy: 1.26.4
+- Cloudpickle: 3.0.0
+- Gymnasium: 0.29.1
+- OpenAI Gym: 0.26.2
+- yfinance 0.2.3
+- finrl 0.3.5 
 ```
 
 ### Usage
