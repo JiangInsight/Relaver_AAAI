@@ -1,9 +1,11 @@
 # Relaver: Resolving Latency and Inventory Risk in Market Making with Reinforcement Learning
 This repo provides the code for reproducing the stock trading experiments in the IJCAI'25 submission **Resolving Latency and Inventory Risk in Market Making with Reinforcement Learning**. 
 
+ **Overview of the Ralaver framework. **
+
 ![overview](overview.png)
 
-*Overview of the Ralaver framework.*
+
 
 ### Dependencies
 ```
